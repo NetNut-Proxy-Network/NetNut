@@ -83,5 +83,5 @@ All code is released under [MIT License](https://github.com/NetNut-Proxy-Network
 <a href="https://netnut.io/license/">License and terms of use</a> ✒️
 
 ## Contact Us ✉️
-Email us @ sales@netnut.io<br>
-or via our <a href="https://netnut.io/github-promotion-residential-proxy/#contact"><strong>website form</a></strong>
+Email us @ <strong>sales@netnut.io</strong><br>
+& via our <a href="https://netnut.io/github-promotion-residential-proxy/#contact"><strong>website form</a></strong>
